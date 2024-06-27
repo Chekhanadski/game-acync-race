@@ -1,0 +1,30 @@
+.car-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.car-control {
+  display: flex;
+  gap: 5px;
+}
+
+.car-container {
+  position: relative;
+  display: flex;
+  gap: 5px;
+  max-width: 98vw;
+  border-bottom: 2px dashed black;
+}
+
+.car-track {
+  display: flex;
+}
+
+.flag {
+  position: absolute;
+  bottom: -8px;
+  right: 100px;
+
+}

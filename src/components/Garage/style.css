@@ -1,0 +1,56 @@
+.garage-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 98vw;
+}
+
+.garage-control-panel {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 300px;
+}
+
+.form-create {
+  display: flex;
+  gap: 10px;
+}
+
+.form-update {
+  display: flex;
+  gap: 10px;
+}
+
+.button-panel {
+  display: flex;
+  gap: 20px;
+}
+
+.paging-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.garage-name {
+  margin: 20px 0 0;
+}
+
+.garage-page {
+  margin: 0 0 20px;
+}
+
+.finish-message {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  animation: grow 1s ease-in-out;
+}
+
+@keyframes grow {
+  0% { font-size: 100%; }
+  100% { font-size: 150%; }
+}
