@@ -6,6 +6,8 @@ You can view the deployment of Async Race Application here: [Async Race App]([ht
 ## Description
 Welcome to the Async Race Application! This app allows you to manage a collection of radio-controlled cars, operate their engines, and showcase race statistics in an engaging, interactive Single Page Application (SPA).
 
+**Important Note:** The Async Race application will only work when the server application or the mock server is running. Make sure to start the server before running the client application.
+
 ## Key Features
 **1. Garage View**
 - CRUD operations for cars with "name" and "color" attributes.
@@ -131,7 +133,7 @@ This command installs all the necessary packages required for the project.
 
 Clone the server application from [here](https://github.com/mikhama/async-race-api) and follow the instructions in the server application's README to set it up and run it.
 
-Important Note: The Async Race application will only work when the server application or the mock server is running. Make sure to start the server before running the client application.
+**Important Note:** The Async Race application will only work when the server application or the mock server is running. Make sure to start the server before running the client application.
 
 **5. Running the Project**
 
