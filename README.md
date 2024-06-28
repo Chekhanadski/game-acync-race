@@ -95,7 +95,7 @@ Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of Node.js and npm.
 - You have a Windows/Linux/Mac machine.
-- You have cloned and set up [the server application](https://github.com/mikhama/async-race-api).
+- You have cloned and set up [the mock server](https://github.com/mikhama/async-race-api).
   
 ### Setting Up the Project
 
