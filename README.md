@@ -1,7 +1,7 @@
 # Async Race
 
 ## View the Project
-You can view the deployment of Async Race Application here: [Async Race App]([https://your-deployment-url](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/async-race/)).
+You can view the deployment of Async Race Application here: [Async Race App](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/async-race/).
 
 ## Description
 Welcome to the Async Race Application! This app allows you to manage a collection of radio-controlled cars, operate their engines, and showcase race statistics in an engaging, interactive Single Page Application (SPA).
