@@ -3,10 +3,10 @@
 ## View the Project
 You can view the deployment of Async Race Application here: [Async Race App](https://rolling-scopes-school.github.io/chekhanadski-JSFE2023Q4/async-race/).
 
+**Important Note:** The Async Race application will only work when [the mock server](https://github.com/mikhama/async-race-api) is running. Make sure to start the server before running the client application.
+
 ## Description
 Welcome to the Async Race Application! This app allows you to manage a collection of radio-controlled cars, operate their engines, and showcase race statistics in an engaging, interactive Single Page Application (SPA).
-
-**Important Note:** The Async Race application will only work when [the mock server](https://github.com/mikhama/async-race-api) is running. Make sure to start the server before running the client application.
 
 ## Key Features
 **1. Garage View**
